@@ -19,3 +19,4 @@ One of my strongest hot takes is that Facebook around ~2014 was peak social medi
  * [Last.fm](https://www.last.fm/user/bradyoactive)
  * [Hardcover](https://hardcover.app/@brady) - a Letterboxd-like alternative to Goodreads!
  * [Google Maps](https://www.google.com/maps/contrib/102435530652155881168/reviews) - I leave a lot of reviews for restaurants, attractions, etc.
+ * [Github](https://github.com/boconnell)
