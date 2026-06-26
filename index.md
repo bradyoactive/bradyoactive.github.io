@@ -4,19 +4,21 @@
 
 Hey, I'm Brady O'Connell! I'm a Software Engineer based in Brooklyn.
 
-My story starts in Gaithersburg, Maryland, where I grew up playing sports (soccer, tennis, and basketball!) and played drums in a hardcore punk band in high school. I've always liked computers and studied Computer Science at the University of Maryland (Go Terps).
+My story starts in Gaithersburg, Maryland, where I grew up playing sports, gaming, and engaged with music. I played travel soccer as kid and tennis and pickup basketball in high school. I played drums in a hardcore punk band, turned [vegetarian](https://en.wikipedia.org/wiki/Animal_rights_and_punk_subculture) when I was 13 and am now vegan. I can kind of skateboard. These days, I listen to everything, but mostly pop.
 
-After college, I lived in San Francisco for 5 years before moving to Brooklyn. Along the way, I've worked at companies like Google, Uber, and Asana.
+I've always liked computers and studied Computer Science at the University of Maryland (Go Terps). After college, I lived in San Francisco for 5 years before moving to New York. Along the way, I've worked at companies like Google, [Remix](https://remix.com), Uber, and Asana.
 
-I love cities where you don't need a car. I also love nature. I've taken multiple months-long sabbaticals between jobs, mostly to backpack around the world, hike, scuba dive, surf, snowboard, and generally engage in novelty-seeking behavior. I've been a vegetarian since I was 13 (before the explosion of new-school mock meat companies!) and these days eat mostly vegan.
+I love car-independent cities. I also love nature. I've taken multiple months-long sabbaticals between jobs, mostly to backpack around the world, hike, dive, surf, snowboard, and generally engage in novelty-seeking behavior.
 
-When home, I like to play all of the sports but am currently focused on pickleball. I love getting lost in Wikipedia rabbit holes, reading speculative fiction, and lurking too much on Reddit and Hacker News. I try to watch a lot of movies and love that I live near a full IMAX theater.
+When back home, I currently play a lot of pickleball. I love getting lost in Wikipedia rabbit holes, reading speculative fiction, and lurking too much on Reddit and Hacker News. I watch a lot of movies, especially nearby at the largest IMAX theater in the country. I like going to concerts, trying new vegan restaurants, and am generally looking for any excuse to get out of the house.
 
 One of my strongest hot takes is that Facebook around ~2014 was peak social media, but you can now find me at:
  * [LinkedIn](https://www.linkedin.com/in/bradyoconnell)
  * [Instagram](https://www.instagram.com/brady_oconnell)
+ * [Github](https://github.com/boconnell)
  * [Letterboxd](https://letterboxd.com/bradyoactive)
  * [Last.fm](https://www.last.fm/user/bradyoactive)
+ * [Concert archives](https://www.concertarchives.org/brady-o-connell)
+ * [Backloggd](https://backloggd.com/u/bradyoactive/) - Letterboxd for gaming
  * [Hardcover](https://hardcover.app/@brady) - a Letterboxd-like alternative to Goodreads!
  * [Google Maps](https://www.google.com/maps/contrib/102435530652155881168/reviews) - I leave a lot of reviews for restaurants, attractions, etc.
- * [Github](https://github.com/boconnell)
