@@ -8,9 +8,9 @@ My story starts in Gaithersburg, Maryland, where I grew up playing sports, gamin
 
 I've always liked computers and studied Computer Science at the University of Maryland (Go Terps). After college, I lived in San Francisco for 5 years before moving to New York. Along the way, I've worked at companies like Google, [Remix](https://remix.com), Uber, and Asana.
 
-I love car-independent cities. I also love nature. I've taken multiple months-long sabbaticals between jobs, mostly to backpack around the world, hike, dive, surf, snowboard, and find other new experiences.
+I love car-independent cities. I also love nature. I've taken multiple months-long sabbaticals between jobs, mostly to backpack around the world with a focus on hiking, diving, and culture.
 
-When back home, I currently play a lot of pickleball. I like getting lost in Wikipedia rabbit holes, reading speculative fiction, and lurking too much on Reddit and Hacker News. I watch a lot of movies, especially nearby at the largest IMAX theater in the country. I like going to concerts, trying new vegan restaurants, and am generally looking for any excuse to get out of the house.
+I play a lot of pickleball. I like getting lost in Wikipedia rabbit holes, reading speculative fiction, and lurking too much on Reddit and Hacker News. I watch a lot of movies, especially anything playing at the Lincoln Square IMAX. I like going to concerts, trying new vegan restaurants, and am generally looking for any excuse to get out of the house.
 
 One of my strongest hot takes is that Facebook around ~2014 was peak social media, but you can now find me at:
  * [LinkedIn](https://www.linkedin.com/in/bradyoactive)
