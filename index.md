@@ -13,12 +13,12 @@ I love car-independent cities. I also love nature. I've taken multiple months-lo
 When back home, I currently play a lot of pickleball. I love getting lost in Wikipedia rabbit holes, reading speculative fiction, and lurking too much on Reddit and Hacker News. I watch a lot of movies, especially nearby at the largest IMAX theater in the country. I like going to concerts, trying new vegan restaurants, and am generally looking for any excuse to get out of the house.
 
 One of my strongest hot takes is that Facebook around ~2014 was peak social media, but you can now find me at:
- * [LinkedIn](https://www.linkedin.com/in/bradyoconnell)
+ * [LinkedIn](https://www.linkedin.com/in/bradyoactive)
  * [Instagram](https://www.instagram.com/brady_oconnell)
- * [Github](https://github.com/boconnell)
+ * [Github](https://github.com/bradyoactive)
  * [Letterboxd](https://letterboxd.com/bradyoactive)
  * [Last.fm](https://www.last.fm/user/bradyoactive)
- * [Concert archives](https://www.concertarchives.org/brady-o-connell)
+ * [Concert archives](https://www.concertarchives.org/bradyoactive)
  * [Backloggd](https://backloggd.com/u/bradyoactive/) - Letterboxd for gaming
  * [Hardcover](https://hardcover.app/@brady) - a Letterboxd-like alternative to Goodreads!
  * [Google Maps](https://www.google.com/maps/contrib/102435530652155881168/reviews) - I leave a lot of reviews for restaurants, attractions, etc.
